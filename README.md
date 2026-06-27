@@ -1,0 +1,2 @@
+# Akgec_internship
+Assignments
